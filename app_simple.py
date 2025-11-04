@@ -693,4 +693,11 @@ if __name__ == '__main__':
     print("🚀 Starting Student Report Application...")
     print("📋 Ready to accept individual sheet URLs for each class")
     print("💡 Use sheets_connector.add_class_sheet_url('1B', 'your_url_here') to add sheets")
-    app.run(debug=True, host='0.0.0.0', port=5000)
+    
+    # For Render.com deployment, use the PORT environment variable
+    import os
+    port = int(os.environ.get('PORT', 5000))
+    app.run(debug=False, host='0.0.0.0', port=port)
+else:
+    # Production configuration for WSGI servers
+    application = app
