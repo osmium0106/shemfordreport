@@ -612,6 +612,7 @@ sheets_connector.add_class_sheet_url('3B', 'https://docs.google.com/spreadsheets
 sheets_connector.add_class_sheet_url('4A', 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7d75CWqTm93BH_4pj9KdWterqOG4cixwzHr0POggL3yDwSwgfxjfrPhCQKY06Bg62tQc-V7-Ny607/pub?output=csv')
 sheets_connector.add_class_sheet_url('5A', 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQzwxDvgMvk-0uGiharp6fRV0J6rg0Nnf1d5u_ND3kdcPskxNz_0iemf-bO87nyfiemZHf0QMbwZ-3-/pub?output=csv')
 sheets_connector.add_class_sheet_url('6A', 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTNwiuUq48nzDvaxyeg5Cqa_rYE_coZ5pz4ss03ALj8SAy6mnVQxAp1wFfeAYSPPTXTydps3X-qhJXw/pub?output=csv')
+sheets_connector.add_class_sheet_url('6B', 'https://docs.google.com/spreadsheets/d/e/2PACX-1vR_SCZQ8_CMaaGqASlGqWD4oc8bCOazFe4VUm-Rzo1O4br3dZu4RbdliSONTD_2QRypKupbri59aG-L/pub?output=csv')
 sheets_connector.add_class_sheet_url('7A', 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRgyXOQGIHl4-86bCncg55yjNheiuiE6d6VFF5psYvyGdCovPnxT4A6d4Qo1NjawUHJfAQctkUig2GO/pub?output=csv')
 sheets_connector.add_class_sheet_url('7B', 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTWXk09C63Cdt9Dk2v_UjusqVeesO6_-3GJmFlOgOj8YGHc8_qZghiI66XHRNu3WJfDz-578pmhGNRJ/pub?output=csv')
 sheets_connector.add_class_sheet_url('8A', 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRs6QnT5Us9BTFdmDW4dXCZ2DXN487tWXfyAuVtuBZXOADm-7wNt139LcNHfpznHenwfLUsPLiKi4Yv/pub?output=csv')
